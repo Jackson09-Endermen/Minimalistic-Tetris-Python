@@ -1,3 +1,4 @@
+#Still a hot mess of buggy code
 from BagRandomizer import random7bag
 board = [['0' for i in range(12)] for x in range(20)]
 while True:
