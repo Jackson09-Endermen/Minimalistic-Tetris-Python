@@ -1,10 +1,10 @@
 # Minimalistic-Tetris-Python
 Gaming
-Bag randomizer [X]
-Piece spawning [X]
-Detecting user input constantly []
-Death detection []
-Gravity []
-Stopping piece before they clip inside each other []
-Hold piece []
-Detecting special moves (T-spins and such) []
+Bag randomizer [X]\n
+Piece spawning [X]\n
+Detecting user input constantly []\n
+Death detection []\n
+Gravity []\n
+Stopping piece before they clip inside each other []\n
+Hold piece []\n
+Detecting special moves (T-spins and such) []\n
