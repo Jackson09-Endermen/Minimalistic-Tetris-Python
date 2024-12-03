@@ -1,4 +1,4 @@
-# Minimalistic-Tetris-Python
+# Minimalistic-Tetris-Python ( NO OOP )
 Gaming               
 Bag randomizer [X]               
 Piece spawning [X]               
