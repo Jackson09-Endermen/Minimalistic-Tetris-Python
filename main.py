@@ -60,7 +60,9 @@ while True:
             for i in curpieceonscreen:
                 board[i[0] + count - 1][i[1]] = '0'
                 board[i[0] + count][i[1]] = '1'
-
+                # After this step check for illegal states
+                # TODO: Put the left-right shit before getting the illegal state checks in 
+                
             
             for _ in board:
                 print(''.join(_))
@@ -69,3 +71,4 @@ while True:
             # 2 Lines at the end of every gravity loop
             count += 1
             time.sleep(1)
+        #Loop back from here when the next piece spawn
